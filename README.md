@@ -1,6 +1,9 @@
 
 # PrescripChain
 
+![23a9f52d-e24e-480e-8d9d-3a926ed012a5](https://github.com/user-attachments/assets/46edc055-c74e-424f-b03f-618c8453964e)
+
+
 **PrescripChain** is a simple AI-driven blockchain application designed to securely track medical prescriptions and detect potential misuse. It combines two main components:
 
 1. **Blockchain** – To store and protect prescription data in a tamper-resistant ledger.
